@@ -17,6 +17,9 @@ We are **not responsible** for the content of external sites. Always verify link
 - Consider using **Tails OS** or other privacy-focused systems for enhanced anonymity.
 - Practice good **OpSec (Operational Security)** while exploring the dark web.
 
+## 📝 NOTE
+We strive to ensure that every link listed is active and functional. However, if you encounter any broken or outdated links, please consider opening an issue or submitting a pull request with the correct information.
+
 ## 📁 Categories
 - Blogs & Personal Pages
 - Onion Link Directories
