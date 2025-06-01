@@ -18,11 +18,11 @@ We are **not responsible** for the content of external sites. Always verify link
 - Practice good **OpSec (Operational Security)** while exploring the dark web.
 
 ## 📁 Categories
+- Onion Link Directories
+- Forums (only legal/general discussion)
 - News Outlets
 - Search Engines
-- Forums (only legal/general discussion)
 - Whistleblowing Platforms
-- Onion Link Directories
 
 ## 🔍 Usage
 You need Tor Browser to access `.onion` links: [Tor Browser](https://www.torproject.org/download/)
