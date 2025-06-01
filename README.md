@@ -9,13 +9,13 @@ We are **not responsible** for the content of external sites. Always verify link
 
 ## ⚠️ General Reminders for Users
 
-- 🔒 Always use the official [Tor Browser](https://www.torproject.org/) to access .onion links.
-- ⚠️ **Do not engage in illegal activity.** This repository is for **educational, journalistic, and research purposes only**.
-- 🛑 Some .onion services may host or link to harmful or illicit content. **Browse responsibly and avoid engaging with such sites.**
-- 👤 Protect your identity — do not share personal information on dark web platforms.
-- 🧠 Verify onion URLs from trusted sources to avoid phishing or scam sites.
-- 📎 Consider using **Tails OS** or other privacy-focused systems for enhanced anonymity.
-- 🕵️ Practice good **OpSec (Operational Security)** while exploring the dark web.
+- Always use the official [Tor Browser](https://www.torproject.org/) to access .onion links.
+- **Do not engage in illegal activity.** This repository is for **educational, journalistic, and research purposes only**.
+- Some .onion services may host or link to harmful or illicit content. **Browse responsibly and avoid engaging with such sites.**
+- Protect your identity — do not share personal information on dark web platforms.
+- Verify onion URLs from trusted sources to avoid phishing or scam sites.
+- Consider using **Tails OS** or other privacy-focused systems for enhanced anonymity.
+- Practice good **OpSec (Operational Security)** while exploring the dark web.
 
 ## 📁 Categories
 - News Outlets
