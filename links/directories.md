@@ -8,3 +8,5 @@ Below is a list of directories that help index other .onion sites. These are use
 | OnionLinks     | `http://onionlinksv3v7pzz.onion/`             | Regularly updated directory of .onion sites. |
 | TorLinks       | `http://torlinkbgs6aabns.onion/`              | Categorized links to forums, services, and resources. |
 | Ahmia Onion Index | `http://msydqstlz2kzerdg.onion/`           | Tor search engine that also hosts a clean, filtered directory. |
+
+---
