@@ -18,9 +18,14 @@ We are **not responsible** for the content of external sites. Always verify link
 - Practice good **OpSec (Operational Security)** while exploring the dark web.
 
 ## 📁 Categories
+- Blogs & Personal Pages
 - Onion Link Directories
+- Email Services
 - Forums (only legal/general discussion)
+- Hosting Providers
+- Libraries & Books
 - News Outlets
+- Paste Sites 
 - Search Engines
 - Whistleblowing Platforms
 
