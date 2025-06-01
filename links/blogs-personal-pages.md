@@ -4,9 +4,9 @@ Blogs and personal Tor sites operated by security researchers, journalists, and 
 
 | Name               | Onion URL                                      | Description |
 |--------------------|------------------------------------------------|-------------|
-| PrivacyGuides Blog | `http://privacyguidesblog7vh2.onion/`         | Privacy-focused blog with tools and tutorials. |
-| DarkFail Blog      | `http://darkfailllnkf4vf.onion/`              | Directory maintainer and updates on trustworthy onion services. |
-| Daniel Winzen's Blog | `http://danwin1210mejdsy.onion/`            | Personal blog covering Tor hosting and development. |
-| Micah Lee          | `http://micahfleeonionb6p.onion/`             | Investigative journalist sharing Tor-related work and tips. |
+| Webdev & Tech | `http://vladsmedrinxlyc7xefocmm5xhsq2d2cj5hfylf4g2xpr2q3fil37jad.onion/` | Blog covering music, code, projects, and malware research. |
+| Tweedge's Blog | `http://tweedge32j4ib2hrj57l676twj2rwedkkkbr57xcz5z73vpkolws6vid.onion/` | Security blog on malware, research, and tooling. |
+| 0ut3r Space | `https://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/` | Personal blog covering tech, research, and music. |
+| Shadow Dock | `http://kbhcl3suo7mebwn5iamnncuopqlraqzygsuizubjvmtyiepe7j4xvlad.onion/` | Collaborative dark web blog on scams, guides, reviews. |
 
 ---
