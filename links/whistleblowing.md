@@ -11,7 +11,7 @@ These platforms are used to securely and anonymously submit sensitive informatio
 
 ---
 
-## ⚠️ Reminder for Users
+## ⚠️ Reminders for Users
 
 - These platforms are intended for **lawful, ethical whistleblowing and journalistic purposes only**.
 - Ensure you are aware of your local laws regarding the use of anonymity tools and whistleblower platforms.
