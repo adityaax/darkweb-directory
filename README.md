@@ -3,7 +3,9 @@
 This repository curates publicly accessible Tor (.onion) resources such as news outlets, forums, whistleblowing platforms, and directories — strictly for educational, research, and academic use.
 
 ## 📌 Disclaimer
-This project does **NOT** promote or encourage any illegal activity. All content shared is publicly indexed or legally accessible through Tor. Use responsibly and at your own risk. Always follow your local laws.
+This repository is maintained for informational and educational use only. Always follow your local laws. We **do not host, promote, or link to illegal content**. Use of any links or tools is at your own risk.
+
+We are **not responsible** for the content of external sites. Always verify links independently before visiting.
 
 ## 📁 Categories
 - News Outlets
