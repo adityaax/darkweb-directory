@@ -1,3 +1,5 @@
+![Dark Web Directory Image](./dark-web-directory.png)
+
 # Dark Web Directory (Educational Purposes)
 
 This repository curates publicly accessible Tor (.onion) resources such as news outlets, forums, whistleblowing platforms, and directories — strictly for educational, research, and academic use.
