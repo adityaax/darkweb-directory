@@ -1,4 +1,4 @@
-![Dark Web Directory Image](./dark-web-directory.png)
+![Dark Web Directory Banner Image](./banner.png)
 
 # Dark Web Directory (Educational Purposes)
 
