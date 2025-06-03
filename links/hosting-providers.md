@@ -1,6 +1,6 @@
 # 🖥️ Hosting Providers
 
-Tor-friendly hosting services that support anonymity, privacy, and sometimes cryptocurrency payments.
+Tor-friendly hosting services that support anonymity, privacy, and cryptocurrency payments.
 
 | Name           | Onion URL                                      | Description |
 |----------------|------------------------------------------------|-------------|
