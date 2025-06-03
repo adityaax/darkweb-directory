@@ -4,9 +4,7 @@ Collections of books, zines, research papers, and technical guides hosted on the
 
 | Name             | Onion URL                                      | Description |
 |------------------|------------------------------------------------|-------------|
-| Imperial Library | `http://xfmro77i3lixucja.onion/`               | Large collection of eBooks, magazines, and academic texts. |
-| Sci-Hub Mirror   | `http://scihub22266oqcxt.onion/`               | Access academic papers for free (mirror). |
-| Library Genesis  | `http://genesis3mpdf5x7fg.onion/`              | E-book library mirror with scientific and educational materials. |
-| F Society Library | `http://fsocietyxz2whbpm.onion/`              | Collection of hacking zines, guides, and privacy tools. |
+| Imperial Library | `http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion/` | Large collection of eBooks, magazines, and academic texts. |
+| Comic Book Library   | `http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/`               | Collection of comics available on Tor network. |
 
 ---
