@@ -4,9 +4,8 @@ Anonymous paste platforms hosted on the dark web. These are commonly used for te
 
 | Name         | Onion URL                                      | Description |
 |--------------|------------------------------------------------|-------------|
-| ZeroBin      | `http://zerobinqmdqd236y.onion/`               | Encrypted pastebin with zero knowledge; data is encrypted before it reaches the server. |
-| OnionPaste   | `http://paste4btcvyuvs63p.onion/`              | Lightweight, anonymous paste service with temporary sharing. |
-| Dogbin       | `http://dogcuxne3l5tfw63.onion/`               | Simple and fast paste tool; supports code syntax highlighting. |
-| Hastebin     | `http://hastebin3qmd5qazf.onion/`              | Mirror of Hastebin paste-sharing site with basic interface. |
+| ZeroBin | `http://zerobinf2vk2xsdhiqvidsah44bm6rty7d2kpuwykuxrl5clj7uryuad.onion/` | Encrypted pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.  |
+| Stronghold Paste | `http://stronger7zkr33u6shgpdgizrwgvqtflpgk5g4d7azuowvqjcaxjkgqd.onion/` | A hidden gem for sharing encrypted text, code, or snippets—similar to Pastebin, with a user-friendly interface. |
+| Dark Web Pastebin | `http://paste2vly2mo2c2chvclcumlhrtvlfki3qdro7n5qxgfdsobwvjq5vyd.onion/` | Anonymous text and code sharing platform on the dark web. |
 
 ---
