@@ -4,10 +4,7 @@ Below is a curated list of dark web news portals and media outlets that publish 
 
 | Name                  | Onion URL                                     | Description |
 |-----------------------|-----------------------------------------------|-------------|
-| ProPublica (Tor)      | `http://www.propub3r6espa33w.onion/`          | Independent nonprofit newsroom that produces investigative journalism in the public interest. |
-| The Intercept (Tor)   | `http://tnysbtbxsf356hiy.onion/`              | Investigative journalism platform covering national security, politics, and civil liberties. |
-| BBC News (Dark Web)   | `http://bbcnewsv2vjtpsuy.onion/`              | BBC’s official .onion site offering uncensored access to global news. |
-| Deutsche Welle (DW)   | `http://dwnewsvdyyiamwnp.onion/`              | German international broadcaster available via Tor for users in restricted regions. |
-| Radio Free Europe     | `http://rferlxdn3npw5jwp.onion/`              | Reports on news in countries where free press is banned by the government or not fully established. |
+| ProPublica (Tor) | `http://p53lf57qovyuvwsc6xnrppyply3vtqm7l6pcobkmyqsiofyeznfu5uqd.onion/` | Independent nonprofit newsroom that produces investigative journalism in the public interest. |
+| BBC News (Dark Web) | `https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion` | BBC’s official .onion site offering uncensored access to global news. |
 
 ---
