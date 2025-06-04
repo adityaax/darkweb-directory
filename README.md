@@ -27,7 +27,7 @@ We strive to ensure that every link listed is active and functional. However, if
 - Blogs & Personal Pages
 - Onion Link Directories
 - Email Services
-- Forums (only legal/general discussion)
+- Forums
 - Hosting Providers
 - Libraries & Books
 - News Outlets
