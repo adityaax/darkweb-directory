@@ -23,6 +23,7 @@ We are **not responsible** for the content of external sites. Always verify link
 We strive to ensure that every link listed is active and functional. However, if you encounter any broken or outdated links, please consider opening an issue or submitting a pull request with the correct information.
 
 ## 📁 Categories
+- Anonymous File Upload Services
 - Blogs & Personal Pages
 - Onion Link Directories
 - Email Services
