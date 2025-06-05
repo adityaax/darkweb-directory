@@ -25,6 +25,7 @@ We strive to ensure that every link listed is active and functional. However, if
 ## 📁 Categories
 - Anonymous File Upload Services
 - Blogs & Personal Pages
+- Chat Rooms
 - Onion Link Directories
 - Email Services
 - Forums
