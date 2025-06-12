@@ -7,5 +7,6 @@ Below is a list of forums accessible via the dark web. These platforms are often
 | Dread | `http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion/` | Reddit-style forum focused on darknet markets, privacy, and community discussion. |
 | SuprBay Forum | `http://suprbaydvdcaynfo4dgdzgxb4zuso7rftlil5yg5kqjefnw4wq4ulcad.onion/` | Official Pirate Bay forum for help, file-sharing, news, and discussions. |
 | [RAMBLE] | `http://rambleeeo4vhxgorpmgunoo276nkiw7bos74cg7tjlgnb3puj3d7ghad.onion/` | [RAMBLE] offers privacy-respecting user forums for informed discussion, and link and image sharing. |
+| DEF CON Forums | `https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/` | Official forum of DEF CON, focused on legal cybersecurity, ethical hacking, and community-driven research. |
 
 ---
