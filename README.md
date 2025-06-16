@@ -41,6 +41,3 @@ You need Tor Browser to access `.onion` links: [Tor Browser](https://www.torproj
 
 ## 📬 Contributing
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting new links.
-
-## 🙌 Support
-If you find this useful, give the repo a ⭐ and share it with fellow researchers.
