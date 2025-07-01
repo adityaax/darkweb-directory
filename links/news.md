@@ -10,5 +10,6 @@ Below is a curated list of dark web news portals and media outlets that publish 
 | The Tor Times | `http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion/` |
 | CryptoNews | `http://exhkwx5ube5io7bxa2thitfh5lgrkivirb2d7biqx3hfrwfd6egbblyd.onion/` |
 | FLASHLIGHT 2.0 | `http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/` |
+| Freedom of the Press Foundation | `http://fpfjxcrmw437h6z2xl3w4czl55kvkmxpapg37bbopsafdu7q454byxid.onion/` |
 
 ---
