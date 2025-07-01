@@ -1,4 +1,4 @@
-# 📁 Anonymous File Upload Services
+# 📁 Anonymous File Sharing Services
 
 These services allow users to upload and share files anonymously over the Tor network. Use them responsibly and only for legal, ethical purposes.
 
