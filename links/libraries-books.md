@@ -8,5 +8,6 @@ Collections of books, zines, research papers, and technical guides hosted on the
 | Comic Book Library   | `http://nv3x2jozywh63fkohn5mwp2d73vasusjixn3im3ueof52fmbjsigw6ad.onion/` |
 | Just Another Library | `http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/` |
 | Z-Library | `http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/` |
+| The Anarchist Library | `http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion/` |
 
 ---
