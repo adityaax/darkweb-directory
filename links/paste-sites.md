@@ -8,5 +8,6 @@ Anonymous paste platforms hosted on the dark web. These are commonly used for te
 | Stronghold Paste | `http://stronger7zkr33u6shgpdgizrwgvqtflpgk5g4d7azuowvqjcaxjkgqd.onion/` |
 | Dark Web Pastebin | `http://paste2vly2mo2c2chvclcumlhrtvlfki3qdro7n5qxgfdsobwvjq5vyd.onion/` |
 | CCCPaste | `http://cccpastefzuz6unowzgjtdwmxwjfgf5za7owwci3b2zys4jmc3xjszad.onion/` |
+| PrivateBin | `https://ronindchpf2qcdpgzgrcjwyvaoyppo57izgca6fdzbmast5xaeouiyqd.onion/` |
 
 ---
