@@ -7,5 +7,6 @@ Whistleblowing platforms are intended for securely and anonymously sharing sensi
 | SecureDrop | `http://sdolvtfhe5xcod5ghegkgtj6y5jegqx5524wpnwnrr7bmy5avpx65pyd.onion/` |
 | Whistleblower Aid | `http://kogbxf4yf3bsblr3izo4dopgkbhueoa3h7ii6xnppx7viifuwx7yy2qd.onion/` |
 | SVR Russian Intelligence | `http://svrgovrubk5bgw5mscnojrbvo3biznnafmyk6gob6ddkblrn75g66oid.onion/` |
+| Publeaks | `http://eozjdgpnnmvcfn3drxtirjcn5c27ydkzqlzn4iptam54eewhji6qlqqd.onion/` |
 
 ---
