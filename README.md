@@ -34,6 +34,7 @@ We strive to ensure that every link listed is active and functional. However, if
 - News Outlets
 - Paste Sites 
 - Search Engines
+- Social Platforms
 - Whistleblowing Platforms
 
 ## 🔍 Usage
