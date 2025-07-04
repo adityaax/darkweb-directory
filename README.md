@@ -35,11 +35,11 @@ We strive to ensure that every link listed is active and functional. However, if
 - Hosting Providers
 - Libraries & Books
 - News Outlets
-- Others
+- Others Section
 - Paste Sites
 - Privacy Platforms 
 - Search Engines
-- Social Platforms
+- Social Sites
 - Whistleblowing Platforms
 
 ## 🔍 Usage
