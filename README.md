@@ -27,13 +27,17 @@ We strive to ensure that every link listed is active and functional. However, if
 - Anonymous File Sharing Services
 - Blogs & Personal Pages
 - Chat Rooms
+- Conferences Sites
+- Cryptocurrency Platforms
 - Onion Link Directories
 - Email Services
 - Forums
 - Hosting Providers
 - Libraries & Books
 - News Outlets
-- Paste Sites 
+- Others
+- Paste Sites
+- Privacy Platforms 
 - Search Engines
 - Social Platforms
 - Whistleblowing Platforms
