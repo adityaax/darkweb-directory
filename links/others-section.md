@@ -1,4 +1,4 @@
-# 📚 Others Section
+# 🤔 Others Section
 
 This section includes a mix of unique platforms and resources on the dark web that don’t fit traditional categories.
 
