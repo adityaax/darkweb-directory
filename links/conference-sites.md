@@ -1,4 +1,4 @@
-# 💬 Conference Sites
+# 🏟 Conference Sites
 
 Conference sites on the dark web share information about underground events, meetups, and webinars focused on cybersecurity, privacy, hacking, and digital freedom—often aimed at niche or anonymous communities.
 
