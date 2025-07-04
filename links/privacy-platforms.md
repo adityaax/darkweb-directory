@@ -1,4 +1,4 @@
-# 🖥️ Privacy Platforms
+# 🛡️ Privacy Platforms
 
 Privacy platforms on the dark web provide tools like VPN services, breach-checking sites (e.g., Have I Been Pwned mirrors), and password recovery/viewer tools (e.g., PasswordFox) to help users safeguard their digital identity and monitor for data leaks.
 
