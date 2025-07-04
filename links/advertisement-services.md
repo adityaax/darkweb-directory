@@ -1,4 +1,4 @@
-# 💬 Advertisement Services
+# 📈 Advertisement Services
 
 Advertisement services on the dark web help individuals and businesses promote their hidden services, marketplaces, or platforms to reach a targeted anonymous audience. These services are often used to boost visibility within the Tor network.
 
