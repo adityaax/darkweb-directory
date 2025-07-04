@@ -1,4 +1,4 @@
-# 👥 Social Platforms
+# 👥 Social Sites
 
 Social interaction doesn't end at the surface web. On the dark web, users communicate anonymously through platforms that prioritize security, decentralization, and resistance to censorship. Some are official .onion mirrors of popular clearnet sites
 
