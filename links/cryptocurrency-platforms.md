@@ -1,4 +1,4 @@
-# 💬 Cryptocurrency Platforms
+# ₿ Cryptocurrency Platforms
 
 Cryptocurrency platforms on the dark web facilitate anonymous transactions, currency exchanges, and wallet services, enabling users to trade and manage digital assets with enhanced privacy.
 
