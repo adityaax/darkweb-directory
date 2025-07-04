@@ -1,4 +1,4 @@
-# 💬 Dark Web Chat Rooms
+# 🗫 Dark Web Chat Rooms
 
 Below is a list of active .onion chat rooms and real-time communication platforms. These services are intended for anonymous conversation on various topics.
 
