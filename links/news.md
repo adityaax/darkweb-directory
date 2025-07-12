@@ -12,5 +12,6 @@ Below is a curated list of dark web news portals and media outlets that publish 
 | FLASHLIGHT 2.0 | `http://ovgl57qc3a5abwqgdhdtssvmydr6f6mjz6ey23thwy63pmbxqmi45iid.onion/` |
 | Freedom of the Press Foundation | `http://fpfjxcrmw437h6z2xl3w4czl55kvkmxpapg37bbopsafdu7q454byxid.onion/` |
 | VOA - Voice of America English News | `https://www.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion/` |
+| Daily Stormer | `http://stormer5v52vjsw66jmds7ndeecudq444woadhzr2plxlaayexnh6eqd.onion/` |
 
 ---
