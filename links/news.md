@@ -13,5 +13,6 @@ Below is a curated list of dark web news portals and media outlets that publish 
 | Freedom of the Press Foundation | `http://fpfjxcrmw437h6z2xl3w4czl55kvkmxpapg37bbopsafdu7q454byxid.onion/` |
 | VOA - Voice of America English News | `https://www.voanews5aitmne6gs2btokcacixclgfl43cv27sirgbauyyjylwpdtqd.onion/` |
 | Daily Stormer | `http://stormer5v52vjsw66jmds7ndeecudq444woadhzr2plxlaayexnh6eqd.onion/` |
+| bellingcat | `http://bellcatmbguthn3age23lrbseln2lryzv3mt7whis7ktjw4qrestbzad.onion/` |
 
 ---
