@@ -8,5 +8,6 @@ Blogs and personal Tor sites operated by security researchers, journalists, and 
 | Tweedge's Blog | `http://tweedge32j4ib2hrj57l676twj2rwedkkkbr57xcz5z73vpkolws6vid.onion/` |
 | 0ut3r Space | `https://reycdxyc24gf7jrnwutzdn3smmweizedy7uojsa7ols6sflwu25ijoyd.onion/` |
 | Shadow Dock | `http://kbhcl3suo7mebwn5iamnncuopqlraqzygsuizubjvmtyiepe7j4xvlad.onion/` |
+| www[.]bentasker.co.uk | `http://e26whn2524322mkxb3cbyk27ev2ihhq2biz35hty7gzgsyrwrygq27yd.onion/` |
 
 ---
