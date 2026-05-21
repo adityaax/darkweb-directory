@@ -8,5 +8,6 @@ This section includes a mix of unique platforms and resources on the dark web th
 | InfoCon.org | `http://w27irt6ldaydjoacyovepuzlethuoypazhhbot6tljuywy52emetn7qd.onion/`
 | No Tone | `http://lgmtjgfpqk6hpik7yygkhavqivn6wsmfa7s7vszmcxwqkpwodinbhnad.onion/`
 | Darktea | `http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/`
+| Electronic Frontier Foundation | `https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion/`
 
 ---
