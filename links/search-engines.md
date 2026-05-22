@@ -15,5 +15,6 @@ These search engines help users discover content and websites on the Tor network
 | OnionLand Search | `http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/` |
 | VormWeb | `http://volkancfgpi4c7ghph6id2t7vcntenuly66qjt6oedwtjmyj4tkk5oqd.onion/` |
 | Our Realm | `http://orealmvxooetglfeguv2vp65a3rig2baq2ljc7jxxs4hsqsrcemkxcad.onion/` |
+| Flex Search | `http://okuqm7cak24fo2algfsauuxnfyh77nzvtbp77nfbuukh6m6f3d6exsyd.onion/` |
 
 ---
