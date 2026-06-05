@@ -45,6 +45,13 @@ We strive to ensure that every link listed is active and functional. However, if
 ## 🔍 Usage
 You need Tor Browser to access `.onion` links: [Tor Browser](https://www.torproject.org/download/)
 
+## 🤝 Contributors
+
+Thanks to everyone who has contributed to this repository:
+
+[@fraklinde3mon](https://github.com/fraklinde3mon)\
+[@nopara73](https://github.com/nopara73)
+
 ## 📬 Contributing
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting new links.
 
