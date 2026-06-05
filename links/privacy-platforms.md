@@ -9,5 +9,6 @@ Privacy platforms on the dark web provide tools like VPN services, breach-checki
 | PasswordFox | `http://passfoxyz6w6x6rk2j7kmvrlpa5o7n25mwe7wu6pr6v3lb62tzkqgcad.onion/`
 | Mullvad VPN | `http://o54hon2e2vj6c7m3aqqu6uyece65by3vgoxxhlqlsvkmacw6a7m7kiad.onion/`
 | Xeovo VPN | `http://xeovok4d6ehoclmlyviwuq7zlmcvucuekhrt2677r33ny2csyd4yldyd.onion/` |
+| Leaked Database Search Engine | `http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion/` |
 
 ---
