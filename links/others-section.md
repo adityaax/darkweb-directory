@@ -9,5 +9,6 @@ This section includes a mix of unique platforms and resources on the dark web th
 | No Tone | `http://lgmtjgfpqk6hpik7yygkhavqivn6wsmfa7s7vszmcxwqkpwodinbhnad.onion/` |
 | Darktea | `http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/` |
 | Electronic Frontier Foundation | `https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion/` |
+| Longevity World Cup | `http://lwc7tszawiykmkjoq4u2yxramezkwbdys2wxr2fmf6sdr6ug5t36ckqd.onion/` |
 
 ---
