@@ -10,5 +10,6 @@ Blogs and personal Tor sites operated by security researchers, journalists, and 
 | Shadow Dock | `http://kbhcl3suo7mebwn5iamnncuopqlraqzygsuizubjvmtyiepe7j4xvlad.onion/` |
 | www[.]bentasker.co.uk | `http://e26whn2524322mkxb3cbyk27ev2ihhq2biz35hty7gzgsyrwrygq27yd.onion/` |
 | The Arcade | `http://artic725lafwfqnygqxraupupg7dtbf4own767duq2bxj3t7dszvzmid.onion/` |
+| The Anonymous Blogging Platform - AnonBlogs | `http://anonblogilbqvwdahdqvtzfngt554s2ywajkfs5dkbqzca5x4apu5gqd.onion/` |
 
 ---
