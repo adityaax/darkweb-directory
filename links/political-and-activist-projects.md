@@ -1,6 +1,6 @@
 # 🏴 Political & Activist Technology Projects
 
-Privacy-focused communication services, hosting providers, and technology collectives that support activists, journalists, whistleblowers, and civil society organizations, including projects accessible through Tor onion services.
+Activist-run communication services and privacy-focused technology projects promoting secure and anonymous online collaboration.
 
 | Name           | Onion URL                                      |
 |----------------|------------------------------------------------|
