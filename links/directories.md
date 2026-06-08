@@ -1,4 +1,4 @@
-# 🗂 Dark Web Link Directories
+# 🗃️ Dark Web Link Directories
 
 Below is a list of directories that help index other .onion sites. These are useful starting points for Tor users looking to explore safely and legally.
 
