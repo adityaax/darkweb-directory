@@ -35,7 +35,7 @@ We strive to ensure that every link listed is active and functional. However, if
 - [Hosting Providers](https://github.com/adityaax/darkweb-directory/blob/main/links/hosting-providers.md)
 - [Libraries & Books](https://github.com/adityaax/darkweb-directory/blob/main/links/libraries-books.md)
 - [News Outlets](https://github.com/adityaax/darkweb-directory/blob/main/links/news.md)
-- [Open Source Tools](https://github.com/adityaax/darkweb-directory/blob/main/links/open-source-tools.md)
+- [Open Source Projects](https://github.com/adityaax/darkweb-directory/blob/main/links/open-source-projects.md)
 - [Others Section](https://github.com/adityaax/darkweb-directory/blob/main/links/others-section.md)
 - [Paste Sites](https://github.com/adityaax/darkweb-directory/blob/main/links/paste-sites.md)
 - [Privacy Platforms](https://github.com/adityaax/darkweb-directory/blob/main/links/privacy-platforms.md) 
