@@ -37,7 +37,8 @@ We strive to ensure that every link listed is active and functional. However, if
 - [News Outlets](https://github.com/adityaax/darkweb-directory/blob/main/links/news.md)
 - [Open Source Projects](https://github.com/adityaax/darkweb-directory/blob/main/links/open-source-projects.md)
 - [Others Section](https://github.com/adityaax/darkweb-directory/blob/main/links/others-section.md)
-- [Paste Sites](https://github.com/adityaax/darkweb-directory/blob/main/links/paste-sites.md)
+- [Paste Sites](https://github.com/adityaax/darkweb-directory/blob/main/links/paste-sites.md)\
+🏴 [Political & Activist Technology Projects](https://github.com/adityaax/darkweb-directory/blob/main/links/political-and-activist-projects.md)
 - [Privacy Platforms](https://github.com/adityaax/darkweb-directory/blob/main/links/privacy-platforms.md) 
 - [Search Engines](https://github.com/adityaax/darkweb-directory/blob/main/links/search-engines.md)
 - [Social Sites](https://github.com/adityaax/darkweb-directory/blob/main/links/social-platforms.md)
