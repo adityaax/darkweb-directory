@@ -11,5 +11,6 @@ Privacy platforms on the dark web provide tools like VPN services, breach-checki
 | Xeovo VPN | `http://xeovok4d6ehoclmlyviwuq7zlmcvucuekhrt2677r33ny2csyd4yldyd.onion/` |
 | Leaked Database Search Engine | `http://breachdbsztfykg2fdaq2gnqnxfsbj5d35byz3yzj73hazydk4vq72qd.onion/` |
 | Cryptostorm VPN | `http://stormwayszuh4juycoy4kwoww5gvcu2c4tdtpkup667pdwe4qenzwayd.onion/` |
+| freemail | `http://freemaild77oyjrldgjyqrdyfhald5jshrfopfl54naflibq7yupalqd.onion/` |
 
 ---
