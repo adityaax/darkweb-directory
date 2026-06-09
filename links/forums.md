@@ -10,5 +10,6 @@ Below is a list of forums accessible via the dark web. These platforms are often
 | DEF CON Forums | `https://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion/` |
 | Tor Project Forum | `https://v236xhqtyullodhf26szyjepvkbv6iitrhjgrqj4avaoukebkk6n6syd.onion/` |
 | BHF | `http://bhf2b5nb3lb2kxpaoyqz7cuk2dkgej5n2refuffxzyhldwt4d7de4zqd.onion/` |
+| Leftychan | `http://leftychans5gstl4zee2ecopkv6qvzsrbikwxnejpylwcho2yvh4owad.onion/` |
 
 ---
