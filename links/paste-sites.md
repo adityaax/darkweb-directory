@@ -9,5 +9,6 @@ Anonymous paste platforms hosted on the dark web. These are commonly used for te
 | Dark Web Pastebin | `http://paste2vly2mo2c2chvclcumlhrtvlfki3qdro7n5qxgfdsobwvjq5vyd.onion/` |
 | CCCPaste | `http://cccpastefzuz6unowzgjtdwmxwjfgf5za7owwci3b2zys4jmc3xjszad.onion/` |
 | PrivateBin | `https://ronindchpf2qcdpgzgrcjwyvaoyppo57izgca6fdzbmast5xaeouiyqd.onion/` |
+| private Note | `http://privatemijde3bjm5p6rmlraohv7742natbaqngyoqg3wobtpseos4qd.onion/` |
 
 ---
