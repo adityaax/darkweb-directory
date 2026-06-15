@@ -10,5 +10,6 @@ This section includes a mix of unique platforms and resources on the dark web th
 | Darktea | `http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/` |
 | Electronic Frontier Foundation | `https://www.iykpqm7jiradoeezzkhj7c4b33g4hbgfwelht2evxxeicbpjy44c7ead.onion/` |
 | Longevity World Cup | `http://lwc7tszawiykmkjoq4u2yxramezkwbdys2wxr2fmf6sdr6ug5t36ckqd.onion/` |
+| Scribe | `http://3xejtix5tkneqclwbcuqi2mysi3bqp6qv2b3jwp466itjzjjptiwhdqd.onion/` |
 
 ---
