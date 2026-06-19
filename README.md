@@ -44,6 +44,11 @@ We strive to ensure that every link listed is active and functional. However, if
 - [👥 Social Sites](https://github.com/adityaax/darkweb-directory/blob/main/links/social-platforms.md)
 - [🕵️‍♂️ Whistleblowing Platforms](https://github.com/adityaax/darkweb-directory/blob/main/links/whistleblowing.md)
 
+## 🚩 Getting Started
+
+- What are dark web cybersecurity best practices? - [acronis.com](https://www.acronis.com/en/blog/posts/dark-web-cybersecurity-best-practices/)
+- Navigating the Dark Web: A Comprehensive Guide to Darknets, Tools, and Intelligence - [navigating-the-darkweb.readthedocs.io](https://navigating-the-darkweb.readthedocs.io/en/latest/index.html)
+
 ## 🔍 Usage
 You need Tor Browser to access `.onion` links: [Tor Browser](https://www.torproject.org/download/)
 
