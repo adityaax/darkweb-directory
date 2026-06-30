@@ -9,5 +9,6 @@ Collections of books, zines, research papers, and technical guides hosted on the
 | Just Another Library | `http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion/` |
 | Z-Library | `http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion/` |
 | The Anarchist Library | `http://libraryqxxiqakubqv3dc2bend2koqsndbwox2johfywcatxie26bsad.onion/` |
+| Marxists Internet Archive | `http://www.marxists3va6eopxoeiegih3iyex2zg3tmace7afbxjqlabmranzjjad.onion/` |
 
 ---
