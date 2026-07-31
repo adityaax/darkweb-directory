@@ -5,6 +5,9 @@
 This repository curates publicly accessible Tor (.onion) resources such as news outlets, forums, whistleblowing platforms, and directories — strictly for educational, research, and academic use.
 
 ## 📌 Disclaimer
+
+**The owner of this repo is not responsible for how you use any onion link. You must be aware of what type of content is available on the dark web, including but not limited to 18+, dangerous, or other potentially harmful material. Use this repository at your own risk.**
+
 This repository is maintained for informational and educational use only. Always follow your local laws. We **do not host, promote, or link to illegal content**. Use of any links or tools is at your own risk.
 
 We are **not responsible** for the content of external sites. Always verify links independently before visiting.
