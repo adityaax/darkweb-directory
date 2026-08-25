@@ -13,5 +13,6 @@ Below is a list of forums accessible via the dark web. These platforms are often
 | Leftychan | `http://leftychans5gstl4zee2ecopkv6qvzsrbikwxnejpylwcho2yvh4owad.onion/` |
 | Lambdaplusjs | `http://lambdaplusjs35padjaiz4jw2fugdoeutse262phqr72uf634s2wdbqd.onion/` |
 | TorForum | `http://bozforz54bwcb6we7pasrp733uy5is62cpwyupziy3xyo7xcj36mdpad.onion/` |
+| Onyx | `http://qjjvtkswao4aidiqh66djsm6geuqui2a3hcxqzkiaommkows6ydjcbid.onion/` |
 
 ---
