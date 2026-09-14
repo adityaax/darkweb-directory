@@ -59,8 +59,9 @@ You need Tor Browser to access `.onion` links: [Tor Browser](https://www.torproj
 
 Thanks to everyone who has contributed to this repository:
 
-[@fraklinde3mon](https://github.com/fraklinde3mon)\
-[@nopara73](https://github.com/nopara73)
+<a href="https://github.com/adityaax/darkweb-directory/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=adityaax/darkweb-directory" />
+</a>
 
 ## 📬 Contributing
 Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting new links.
