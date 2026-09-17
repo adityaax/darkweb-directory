@@ -20,5 +20,6 @@ These search engines help users discover content and websites on the Tor network
 | Sara Search | `http://dgwq7uzh5ro2f7p34begy4kmxue5gst7lk2spxda63zkrpuegtj4opyd.onion/` |
 | Dark Arrow | `http://yq2c6en7ly2yhnmdsufwxc7rwr6nbjpoyoiaqarp7gbxydbj7ktwebid.onion/` |
 | Onion Search | `http://indexyfl4ukslw35uvlxucvtbkiqccs2k7qz6l4tvds7b2wautnh7iqd.onion/` |
+| Qubic Search | `http://qkvdstjco5m2txe5l2e4yxbrzvu42greusfl2m3ry62czet7wtjzg3ad.onion/` |
 
 ---
