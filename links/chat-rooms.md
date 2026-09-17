@@ -9,5 +9,7 @@ Below is a list of active .onion chat rooms and real-time communication platform
 | WSS.chat | `http://wsssspmmqsmqarsjxe643rkfafirnxxx3gffcygyxz3k57h6beudstad.onion/` |
 | SimpleX Chat | `http://isdb4l77sjqoy2qq7ipum6x3at6hyn3jmxfx4zdhc72ufbmuq4ilwkqd.onion/` |
 | Grand Line Archive | `http://66x7svnoqejhh5dftqkppytakb7o7xhtm3drqbfr7pbihbgcn3mm4ayd.onion/` |
+| Fox Chat | `http://foxyijyba5kbxguin7pq3qpwhzqwfsjiskne3p47itjctbfgguo3zryd.onion/` |
+| CheshIRCat | `http://34vnln24rlakgbk6gpityvljieayyw7q4bhdbbgs6zp2v5nbh345zgad.onion/` |
 
 ---
