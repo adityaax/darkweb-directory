@@ -68,3 +68,11 @@ Please read [CONTRIBUTING.md](./CONTRIBUTING.md) before submitting new links.
 
 ## 🙌 Support
 If you find this useful, give the repo a ⭐ and share it with fellow researchers.
+
+<a href="https://www.star-history.com/?type=date&legend=top-left&repos=adityaax/darkweb-directory">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=adityaax/darkweb-directory&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=adityaax/darkweb-directory&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=adityaax/darkweb-directory&type=date&legend=top-left" />
+ </picture>
+</a>
